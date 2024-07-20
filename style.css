@@ -1,0 +1,38 @@
+body {
+  background: url("eljegyzes.jpg") no-repeat center center fixed;
+  background-size: cover;
+  
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Trade Winds',cursive, fantasy;
+  text-align: center;
+  text-shadow: 2px 2px #FFFFCC;
+}
+
+@media (min-width: 2560px) {
+  
+  body {
+    width: 66.6%;
+    max-width: 812px;
+    text-align: center;
+    
+  }
+  
+}
+#countbox1 {
+  font-size: 40px;
+  font-family: 'Trade Winds',cursive, fantasy;
+  text-align: center;
+  padding-top: 15%;
+  text-shadow: 2px 2px #FFFFCC;
+}
+/*
+@media (max-width: 1918px) {
+  body {
+    width: 100%;
+    text-align: center;
+    max-width: 
+  }
+}*/
